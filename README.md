@@ -11,10 +11,21 @@ Aspiring Data Analyst with hands-on experience in SQL, data cleaning, and databa
 - **Skills:** Window functions, CTEs, self-joins, data standardization
 - **Result:** Clean dataset with 1,995 validated records
 
-### 2. Demo Employee Data Cleaning 
-### 3. Demo Customer Orders Cleaning 
-### 4. Demo Inventory Management Cleaning
+### 2. [Employee Data Cleaning](./employees-cleaning)
+- **Dataset:** Employee records (13 rows)
+- **Skills:** String manipulation, salary formatting, email fixing
+- **Result:** 11 clean employee records with populated managers
 
+### 3. [Customer Orders Cleaning](./orders-cleaning)
+- **Dataset:** E-commerce orders (11 rows)
+- **Skills:** Phone number formatting (SUBSTRING), multi-format price cleaning
+- **Result:** 9 standardized order records
+
+### 4. [Inventory Management Cleaning](./inventory-cleaning)
+- **Dataset:** Product inventory (11 rows)
+- **Skills:** Business logic, duplicate merging, stock aggregation
+- **Result:** 10 clean product records with combined inventory
+  
 ## Skills Demonstrated
 - Duplicate detection and removal
 - Data standardization and normalization
